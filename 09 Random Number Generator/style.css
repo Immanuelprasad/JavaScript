@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
+}
+#myButton
+{
+    font-size: 3rem;
+    padding: 5px 25px;
+    border-radius: 10px;
+}
+#myLabel
+{
+    font-size: 3rem;
+}
